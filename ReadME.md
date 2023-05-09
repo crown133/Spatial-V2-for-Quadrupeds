@@ -16,5 +16,5 @@ Run **freego_parameter.m** in "/models" folder to load the kinematics and dynami
 It's realized by simulink subsystems which is nearly the same as "LegController.cpp" in Cheetah-Software.
 
 ### State Machine ###
-This module is designed to plan jumping trajectory in time schedule manually, which is very stupid.
+This module is designed to plan jumping trajectory in time schedule manually, which is very rough.
 
