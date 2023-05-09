@@ -1,3 +1,5 @@
+Control of Quadruped robot in low-gravity based on Spatial_V2
+![image](https://github.com/crown133/Spatial-V2-for-Quadrupeds/assets/25100526/94a88317-7790-4491-921e-5ebceff11f50)
 ## StartUp ##
 Firstly, run **"startup.m"** to add the file path to matlab workspace.
 ## Visualization ##
